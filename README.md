@@ -26,3 +26,10 @@ El objetivo general es identificar las carencias actuales y proponer soluciones 
 - **Incremento de ingresos**: campañas y promociones más adaptadas a las necesidades reales de los clientes y al “tirón” de los productos con mayor demanda.
 - **Mejora de la experiencia del cliente**: oferta clara y enfocada.
 - **Mayor alineación con la demanda real**: foco en productos de alto valor.
+
+  ## Estructura del repositorio
+- `data/` → datasets utilizados.
+- `notebooks/` → análisis exploratorio y modelos en Jupyter.
+- `presentation/` → presentación final del proyecto.
+- `results/` → gráficas y resultados generados.
+
