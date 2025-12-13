@@ -1,5 +1,5 @@
 # FINDTECH - Caso NEXORA
-Análisis estratégico del portfolio de productos de NEXORA para simplificar la oferta y optimizar costes
+Análisis estratégico de productos de NEXORA para simplificar la oferta y optimizar costes.
 
 ## Descripción
 Este proyecto analiza el comportamiento real de los productos en cartera de NEXORA, una fintech que permite a sus clientes configurar su experiencia financiera contratando solo lo que necesitan. Tras años de crecimiento y expansión, la empresa detecta pérdida de foco: productos sin contratación, solapamientos y caída de popularidad.
